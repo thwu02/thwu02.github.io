@@ -1,2 +1,2 @@
-[Imaginary](./about/imaginary)
+[Imaginary](./about/imaginary)  
 [Dissolve](./dissolve)
