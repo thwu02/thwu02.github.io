@@ -1,0 +1,23 @@
+# Site Settings
+title: 
+email: 
+description: >- # This allows for a multi-line description
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site
+
+# Build Settings
+theme: minima # Default GitHub Pages theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude these from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata
