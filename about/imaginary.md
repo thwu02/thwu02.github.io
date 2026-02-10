@@ -1,14 +1,27 @@
-I planted a tree \n
-from a wind-blown seed \n
-and watched it sprout \n
-\n
-I laid out a blanket \n
-by a swaying sapling \n
-and watched the clouds \n
-\n
-I built a treehouse \n
-in the tangle of branches \n
-and watched the world \n
-\n
-I sat in its shade \n
-to burn in the sun \n
+I planted a tree
+
+from a wind-blown seed 
+
+and watched it sprout 
+<br/><br/>
+
+
+I laid out a blanket
+
+by a swaying sapling
+
+and watched the clouds
+<br/><br/>
+
+
+I built a treehouse
+
+in the tangle of branches
+
+and watched the world
+<br/><br/>
+
+
+I sat in its shade 
+
+to burn in the sun
