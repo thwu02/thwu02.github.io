@@ -5,6 +5,7 @@ and watched it sprout
 I laid out a blanket  
 by a swaying sapling  
 and gazed at the clouds  
+
 I built a treehouse  
 high in its canopy  
 and peered over the horizon  
