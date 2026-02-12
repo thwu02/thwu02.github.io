@@ -1,1 +1,3 @@
-[Home](./drafts/home)
+[Home](./drafts/home)  
+[Pine](./drafts/pine)  
+[Imaginary v2](./drafts/imaginaryv2)
