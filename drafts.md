@@ -1,1 +1,1 @@
-[Home](./drafts/tea)
+[Home](./drafts/home)
