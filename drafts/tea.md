@@ -16,5 +16,6 @@ Water poured
 again  
 Rest  
 
-No flavor remains  
-No future left to read  
+Bland sips  
+With no future to read  
+
