@@ -1,4 +1,5 @@
 [Home](./drafts/home)  
 [Pine](./drafts/pine)  
 [Imaginary v2](./drafts/imaginaryv2)  
-[Shadow](./drafts/shadow)
+[Shadow](./drafts/shadow)  
+[Revelation Principle](./drafts/revelation)
