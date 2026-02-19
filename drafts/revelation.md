@@ -1,12 +1,12 @@
 We reach an understanding  
-Obfuscating ourselves  
+By concealing ourselves  
 When we could have  
-Wore our hearts on our sleeves.  
+Worn our hearts on our sleeves.  
 Acted the same,  
-But without evasion,  
-About our desires.  
+But free from evasion,  
+Of our deep desires.  
 If only we had,  
 A safe place to confess.  
-Securely hold on,  
-To things obvious in hindsight,  
-And arrange our interactions.
+To securely hold on  
+To things now self-evident,  
+And arrange our affections.
