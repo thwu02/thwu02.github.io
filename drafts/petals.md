@@ -9,7 +9,7 @@ Under dark gray skies
 Flung about in the frigid rain  
 
 He loves me  
-In misty mornings  
+In the misty dawn    
 Coated by sweet morning dew  
 
 He loves me not  
