@@ -5,4 +5,4 @@
 
 
 [Drafts](./drafts)  
-[Images](./images)
+[Images](./Images)
