@@ -1,4 +1,4 @@
-Once bitten, now shy  
+One bite, now shy  
 The thinker perched up high  
 
 Gazing out at the open sea  
