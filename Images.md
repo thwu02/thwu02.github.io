@@ -4,3 +4,4 @@
 [Untitled](./Images/untitled)  
 [Wisdom of Time](./Images/wisdom)  
 [Pegasus](./Images/pegasus)  
+[The Fortress](./Images/fortress)
