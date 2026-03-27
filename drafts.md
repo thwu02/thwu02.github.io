@@ -5,4 +5,5 @@
 [Revelation Principle](./drafts/revelation)  
 [Petals](./drafts/petals)  
 [Indian Hill](./drafts/indianhill)  
-[Central](./drafts/central)
+[Central](./drafts/central)  
+[A Year of Rain](./drafts/rain)
